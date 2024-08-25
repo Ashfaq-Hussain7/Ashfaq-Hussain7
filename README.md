@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI and Data Science
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me [ashfaqhms007@gmail.com]
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 
 <!---
 Ashfaq-Hussain7/Ashfaq-Hussain7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
