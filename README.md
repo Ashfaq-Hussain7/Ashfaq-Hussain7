@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashfaq-Hussain7&show_icons=true&theme=radical" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashfaq-Hussain7&theme=radical" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Ashfaq-Hussain7&theme=radical" alt="GitHub streak" />
 </p>
 
 ---
