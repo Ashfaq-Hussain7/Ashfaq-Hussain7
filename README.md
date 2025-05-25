@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 BSc in AI & Data Science | 6th Semester  
-- 🌟 Passionate about **AI/ML**, **Computer Vision**, and **Cloud Computing**
+- 🌟 Passionate about **AI/ML**, **Data Science**, **Computer Vision**, and **Cloud Computing**
 - 🚁 Currently working on **Drone Obstacle Detection** with **SLAM**  
 - 🧠 Recent Project: **Audio Emotion Detection** – Achieved ~95% accuracy!  
 - 🌍 Eager to solve real-world problems using tech
